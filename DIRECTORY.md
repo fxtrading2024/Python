@@ -540,8 +540,7 @@
   * [Lu Decomposition](linear_algebra/lu_decomposition.py)
   * Src
     * [Conjugate Gradient](linear_algebra/src/conjugate_gradient.py)
-    * Gaussian Elimination Pivoting
-      * [Gaussian Elimination Pivoting](linear_algebra/src/gaussian_elimination_pivoting/gaussian_elimination_pivoting.py)
+    * [Gaussian Elimination Pivoting](linear_algebra/src/gaussian_elimination_pivoting.py)
     * [Lib](linear_algebra/src/lib.py)
     * [Polynom For Points](linear_algebra/src/polynom_for_points.py)
     * [Power Iteration](linear_algebra/src/power_iteration.py)
@@ -1260,6 +1259,7 @@
   * [Can String Be Rearranged As Palindrome](strings/can_string_be_rearranged_as_palindrome.py)
   * [Capitalize](strings/capitalize.py)
   * [Check Anagrams](strings/check_anagrams.py)
+  * [Count Vowels](strings/count_vowels.py)
   * [Credit Card Validator](strings/credit_card_validator.py)
   * [Damerau Levenshtein Distance](strings/damerau_levenshtein_distance.py)
   * [Detecting English Programmatically](strings/detecting_english_programmatically.py)
